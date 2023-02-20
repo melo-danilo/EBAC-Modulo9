@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">exerciciomodulo9</string>
+    <string name="nome">Danilo Melo</string>
+    <string name="email">dracco.melo@gmail.com</string>
+    <string name="phone">(14) 99133-6267</string>
+    <string name="address">Marília - SP</string>
+    <string name="todo">TODO</string>
 </resources>
